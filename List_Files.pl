@@ -1,9 +1,11 @@
- #!/usr/bin/perl
+#!/usr/bin/perl
 use strict;
 use warnings;
 
+# NAME: List_Files.pl 
 # DESIGNER: POLARIS HENDRIX
 # USE: PRINTS RECURSIVE LIST OF DIRECTORY FILES
+# EXECUTE: perl List_Files.pl
 # DATE: 01/16/2022
 
 # -f CHECKS IF FILE
