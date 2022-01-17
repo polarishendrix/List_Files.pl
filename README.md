@@ -1,2 +1,2 @@
-# PERL-File-Search
-Use PERL to list and search for files
+# PERL-Recursive-List-Files
+Use PERL to list files recursively
